@@ -1,11 +1,10 @@
 # 1. The Commons XR :: 01/2023 - current
-
-### A. Used server-side-rendering to improving website performance -> [jump](#jump1)  
-### B. Implemented express-seesion to record users -> [jump](#jump2)  
-### C. Set a secure enviroment for development in Azure -> [jump](#jump3)  
-
 This is a briefly introduction of what I did duiring my second internship at The Commons XR (2023 spring).  
 I drawn some diagrams to explain my results.  
+
+### [A. Used server-side-rendering to improving website performance](#jump1)  
+### [B. Implemented express-seesion to record users](#jump2)  
+### [C. Set a secure enviroment for development in Azure](#jump3)  
 
 <span id="jump1"></span>
 ## A. Used server-side-rendering to improving website performance
