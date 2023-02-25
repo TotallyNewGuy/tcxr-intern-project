@@ -1,4 +1,4 @@
-# 1. The Commons XR :: 01/2023 - current
+# The Commons XR :: 01/2023 - current
 This is a briefly introduction of what I did duiring my second internship at The Commons XR (2023 spring).  
 I drawn some diagrams to explain my results.  
 
