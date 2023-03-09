@@ -19,7 +19,7 @@ I drawn some diagrams to explain my results.
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/TC/SSR.png)
 <h4 align="center">Server side rendering make FMP & TTI faster but FCP is slow</h4>  
 
-![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-d1.png)
+![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-overview.png)
 
 ![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-d2.png)
 
