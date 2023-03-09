@@ -17,6 +17,12 @@ I drawn some diagrams to explain my results.
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/TC/SSR.png)
 <h4 align="center">Server side rendering make FMP & TTI faster but FCP is slow</h4>  
 
+![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-a.png)
+
+![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-b.png)
+
+![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-c.png)
+
 <span id="jump2"></span>
 ## B. Implemented express-seesion to record users
 ▪ Used express-session and Redis to track users, rewrite URL to pass session ID if cookie is disabled.
