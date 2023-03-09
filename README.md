@@ -21,7 +21,7 @@ I drawn some diagrams to explain my results.
 
 ![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-d2.png)
 
-![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-d3.png)
+![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-overview.png)
 
 <span id="jump2"></span>
 ## B. Implemented express-seesion to record users
