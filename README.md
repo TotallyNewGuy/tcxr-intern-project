@@ -11,6 +11,8 @@ I drawn some diagrams to explain my results.
 ▪ Created React components in Typescript with Chakra UI based on Figma design from UI/UX team.  
 ▪ Utilized Next and Node to do some Server-Side Rendering to improve almost 50% performance.  
 
+![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/React%2BNode.png)  
+
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/TC/CSR.png)
 <h4 align="center">Client side rendering make FCP faster but FMP is slow</h4>  
 
