@@ -17,11 +17,11 @@ I drawn some diagrams to explain my results.
 ![image](https://github.com/TotallyNewGuy/work-project-diagram/blob/main/TC/SSR.png)
 <h4 align="center">Server side rendering make FMP & TTI faster but FCP is slow</h4>  
 
-![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-b.png)
+![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-d1.png)
 
-![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-a.png)
+![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-d2.png)
 
-![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-c.png)
+![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/SSR-d3.png)
 
 <span id="jump2"></span>
 ## B. Implemented express-seesion to record users
