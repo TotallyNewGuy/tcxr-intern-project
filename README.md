@@ -11,5 +11,5 @@ I drawn some diagrams to explain my results.
 
 ![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/TCXR-0.png)
 ![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/TCXR-2.png)
-![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/TCXR-3.png)
+![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/TCXR-3-2.png)
 ![image](https://github.com/TotallyNewGuy/sn-intern-project/blob/main/TC/TCXR-4.png)
